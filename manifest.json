@@ -1,0 +1,7 @@
+{
+  "manifest_version": 3,
+  "name": "ASCII Chrome Theme",
+  "version": "1.0.0",
+  "description": "Animated ASCII animals on your new tab, with a liquid-glass search box and tweaks.",
+  "chrome_url_overrides": { "newtab": "newtab.html" }
+}
